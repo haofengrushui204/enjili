@@ -4,7 +4,7 @@ Created on 2017/6/7
 
 @author: kongyangyang
 '''
-import re 
+import re
 fields_enum_type = ["ys", "czzy","ghcs","pfbz","bsx","cs","jb","qdfs","csjg","jqxs","rllx","rybh","city","brand","jccs", "pl", "year"] # style_name -> year
 fields_disable = {"fdjxh","jcr","model","czbj","long","width","height","jccs","cssj","grjyzdj","grjyzgj","syxdq","cms","zws","cs"}
 fields_type_disable = {"owner","platform","detect"}
